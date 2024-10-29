@@ -120,6 +120,7 @@ async function handleRequest(request) {
         }
     
         .ai .message-container {
+        
         }
     
         .user .user-message-block {
